@@ -1,0 +1,182 @@
+
+
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Chiến dịch Điện Biên Phủ trên không</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            background-color: #f4f6f8;
+        }
+        header {
+            background: #8b0000;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 15px;
+            background: white;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #8b0000;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 6px;
+            margin: 10px 0;
+        }
+        iframe {
+            width: 100%;
+            height: 400px;
+            border-radius: 8px;
+        }
+        .quiz {
+            margin-top: 15px;
+        }
+        footer {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Chiến dịch “Điện Biên Phủ trên không” (12/1972)</h1>
+    <p>Trang web lịch sử – Học tập & Tìm hiểu</p>
+</header>
+
+<section>
+    <h2> I. Khái niệm về chiến dịch </h2>
+    <p>
+        Chào mừng bạn đến với trang web tìm hiểu về <b>Chiến dịch Điện Biên Phủ trên không</b> –
+       sự khủng khiếp và tàn khốc của chiến tranh đạt tới đỉnh điểm là một những trận đánh ác liệt bậc 
+       nhất kéo dài tới 12 ngày đêm mà bất cứ người Việt nào cũng không thể quên . Người Mĩ gọi chiến 
+       dịch đó là Linebacker II ( Sấm Rền II ) với những vũ khí siêu nặng đô thuộc hàng hiện đại 
+       và không có đối thủ lúc bấy giờ mục tiêu là đưa miền Bắc Việt Nam trở về thời kì đồ đá . Còn 
+       người Việt gọi đó là trận Điện Biên Phủ trên không với sức mạnh của ý chí , trí tuệ và một sức 
+       mạnh dân tộc của một đất nước nhỏ bé và ngay cả người Mĩ và các cường quốc khác cũng không thể 
+      tin nổi . Hàng loạt các cuộc tiến công chiến lược của quân dân miền Nam mà đỉnh cao là thắng lợi 
+      trong  chiến dịch Lam Sơn 719 , đường chính Nam Lào khiến chính phủ Hoa Kỳ buộc phải quay trở lại 
+      đàm phán tại hội nghị Pari .
+    </p>
+  <section>
+    <h3>1. diễn biến trên bàn đàm phán</h3>
+    <p>
+        <b>Tại hội nghị Paris </b> chính quyền Nixon vẫn cố tình câu giờ muốn đợi qua cuộc bầu cử tổng
+        thống đồng thời chuẩn bị kế hoạch quân sự mới để giành lại thế chủ động trên bàn đàm phán và 
+        ông đã ra một kế hoạch mà người Mĩ gọi với cái tên là Sấm Rền II . Trong ngày hôm đó ông cũng
+        gọi điện cho chính phủ Việt Nam dân chủ cộng hòa yêu cầu phải trở lại bàn đàm phán và chấn nhận 
+        những điều kiện của Mĩ  nếu không Mĩ sẽ ném bom trở lại , cố vấn cấp cao của Việt nam lúc bấy 
+        giờ là ông Lê Đức Thọ đã đưa ra câu trả lời đầy đanh thét : <b>"tôi và các ông đã đánh nhau 4 ,5  
+        năm nay rồi , bom đạn cũng đã rơi nhiều rồi nên các ông đừng có đem bom đạn ra mà dọa chúng tôi"
+        </b> trước thái độ cứng rắn của Việt Nam chính quyền Nixon chính thức tiến hành chiến dịch Sấm
+        Rền II với con ác chủ bài siêu pháo đài bay B-52 
+    </p>
+
+    <h3> 2. Sự chuẩn bị của Đảng</h3>
+<p> Với kinh nghiệm chính trị dày dặn ngay từ trước chủ tịch Hồ Chí Minh đã từng dự báo rằng 
+<b> " Sớm muộn đế quốc Mĩ cũng đưa B-52 ra ném bom Hà Nội rồi có thua mới chịu thua. Chú nên nhớ 
+trước khi đến bàn Môn Điếm ký hiệp định đình chiến ở Triều Tiên , Mĩ đã cho không quân hủy diệt Bình 
+Nhưỡng . Ở Việt Nam Mĩ nhất định thua nhưng nó chỉ chịu thua sau khi thua trên bầu trời Hà Nội"</b> vì 
+thế Việt Nam đã có sự chuẩn bị từ khá sớm như việc cho các đơn vị phòng không tên lửa vào phía nam
+quân khu 4 để tìm hiểu quy luật hoạt động cách phát hiện chống nhiễu và cách để bắn rơi được B-52
+</p>
+    <h3> 3. Khái niệm B-52 và số lượng</h3>
+    <p>B-52 là vũ khí không quân của Mĩ có kích thước khổng lồ có thể mang hơn 30 tấn bom hoạt động 
+    được ban đêm và trong thời phức tạp có thể ném bom từ độ cao 9-10km trần bay tối đa 15km sử dụng 4 
+    động cơ phản lực giúp chúng linh hoạt trong chiến đấu vì thế nó được gọi với cái tên là pháo đài bay
+    B-52 </p>
+<img src="b52.jpg" alt="Ảnh minh họa B-52"
+     style="width:300px; display:block; margin:auto;">
+    <h3>🔹 Giai đoạn 2 (21 – 24/12/1972)</h3>
+    <p>
+        Không quân Mỹ tăng cường cường độ đánh phá.
+        Ta rút kinh nghiệm, thay đổi cách đánh, tiếp tục giành thắng lợi.
+    </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Hanoi_air_defense_1972.jpg" alt="Phòng không Hà Nội">
+
+    <h3>🔹 Giai đoạn 3 (25 – 29/12/1972)</h3>
+    <p>
+        Mỹ mở các đợt tập kích lớn nhất nhưng bị thiệt hại nặng nề.
+        Ngày 30/12/1972, Mỹ buộc phải tuyên bố ngừng ném bom miền Bắc.
+    </p>
+</section>
+
+<section><h2>3. Video tư liệu lịch sử</h2>
+    <p>Video giúp bạn hiểu rõ hơn về diễn biến và ý nghĩa của chiến dịch:</p>
+    <iframe 
+        src="https://www.youtube.com/embed/3z0p0ZxvV7A"
+        title="Điện Biên Phủ trên không">
+    </iframe>
+</section>
+
+<section>
+    <h2>4. Bài tập trắc nghiệm</h2>
+
+    <div class="quiz">
+        <p><b>Câu 1:</b> Chiến dịch Điện Biên Phủ trên không diễn ra vào thời gian nào?</p>
+        <p>A. Tháng 3/1954</p>
+        <p>B. Tháng 12/1972</p>
+        <p>C. Tháng 4/1975</p>
+        <p>D. Tháng 1/1968</p>
+    </div>
+
+    <div class="quiz">
+        <p><b>Câu 2:</b> Loại máy bay chiến lược chủ yếu của Mỹ trong chiến dịch là?</p>
+        <p>A. F-16</p>
+        <p>B. A-10</p>
+        <p>C. B-52</p>
+        <p>D. C-130</p>
+    </div>
+
+    <div class="quiz">
+        <p><b>Câu 3:</b> Kết quả lớn nhất của chiến dịch là gì?</p>
+        <p>A. Mỹ rút quân khỏi miền Nam</p>
+        <p>B. Mỹ chấp nhận ký Hiệp định Paris</p>
+        <p>C. Giải phóng hoàn toàn miền Nam</p>
+        <p>D. Thống nhất đất nước</p>
+    </div>
+</section>
+
+<section>
+    <h2>5. Ý nghĩa và nguyên nhân thắng lợi</h2>
+
+    <h3>✔ Ý nghĩa</h3>
+    <ul>
+        <li>Đập tan cuộc tập kích chiến lược bằng B-52 của Mỹ.</li>
+        <li>Buộc Mỹ phải ký Hiệp định Paris năm 1973.</li>
+        <li>Cổ vũ mạnh mẽ phong trào đấu tranh vì hòa bình trên thế giới.</li>
+    </ul>
+
+    <h3>✔ Nguyên nhân thắng lợi</h3>
+    <ul>
+        <li>Sự lãnh đạo đúng đắn của Đảng và Nhà nước.</li>
+        <li>Tinh thần chiến đấu anh dũng của quân và dân.</li>
+        <li>Nghệ thuật quân sự sáng tạo, cách đánh linh hoạt.</li>
+    </ul>
+
+    <p><b>Thông điệp:</b>  
+        Chiến thắng Điện Biên Phủ trên không khẳng định ý chí độc lập, tự cường của dân tộc Việt Nam,
+        cho thấy một dân tộc dù nhỏ bé nhưng có chính nghĩa và quyết tâm
+        thì vẫn có thể chiến thắng những thế lực mạnh hơn nhiều lần.
+    </p>
+</section>
+
+<footer>
+    <p>© 2025 – Trang web lịch sử Việt Nam | Học sinh thực hiện</p>
+</footer>
+
+</body>
+</html>
